@@ -9,4 +9,3 @@ This path included hands-on learning in:
 - 🐧 Linux OS  
 - 🪟 Windows OS  
 
-**Certificate**
