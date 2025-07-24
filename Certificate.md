@@ -1,4 +1,4 @@
-# **TryHackMe – Pre-Security Path Completed**
+# **TryHackMe–Pre-Security Path Completed**
 
 I am happy to share that I have completed the Pre-Security learning path on TryHackMe. This Path helped me build a strong foundation in cybersecurity.  
 This path included hands-on learning in:
